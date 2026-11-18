@@ -107,7 +107,7 @@ export default function Bmr() {
                   onChange={(e) => setGender(e.target.value)}
                   className="w-4 h-4 text-blue-600 border-gray-300 focus:ring-blue-500" check />
                 <label for="male" className="ml-2 text-sm text-gray-700">ชาย</label>
-              </div>``
+              </div>
               
               <div class="flex items-center">
 

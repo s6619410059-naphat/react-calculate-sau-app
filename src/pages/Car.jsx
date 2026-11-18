@@ -72,8 +72,7 @@ export default function Car() {
  
   return (
     <>
-      <div className="w-[50%] border-1 border-gray-300 mt-30 mx-auto rounded-2xl
-                    p-10 flex flex-col items-center gap-3 shadow-2xl">
+      <div className="w-200 border-2 flex flex-col items-center p-15 mt-40 mx-auto border-gray-100 shadow-2xl">
         {/* แสดงชื่อการคำนวณภาษาอังกฤษ-ไทย */}
         <div className="flex flex-col items-center gap-1 mb-2">
           <h1 className="text-3xl font-extrabold text-gray-800">Car Installment Calculator</h1>
