@@ -6,5 +6,5 @@ export default function Footer() {
         <p className="font-itim text-gray-700"> © 2024 Naphat. All rights reserved. </p>
       </div>
     </>
-  );
+  )
 }
